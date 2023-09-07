@@ -9,7 +9,7 @@ Além da faculdade, estudo os principais conceito de Ciência de Dados, faço pa
 :rocket: `Estudo para ser um futuro Cientista de Dados!`
   
 
-<p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
+<p  class="Profile Views Badge"  align="left"> <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
 
 </p>
 
@@ -17,7 +17,7 @@ Além da faculdade, estudo os principais conceito de Ciência de Dados, faço pa
 
 ## :bar_chart: Github Stats :octocat:
 
-<div  align="center"  style="display: inline_block">
+<div  align="right"  style="display: inline_block">
 
 <a  href="https://github.com/vvinicios">
 
@@ -33,7 +33,7 @@ Além da faculdade, estudo os principais conceito de Ciência de Dados, faço pa
 
 <a  href="https://git.io/streak-stats">
 
-<img  height="220em"  src="https://github-readme-streak-stats.herokuapp.com?user=vvinicios&theme=tokyonight"/>
+<img  height="150em"  src="https://github-readme-streak-stats.herokuapp.com?user=vvinicios&theme=tokyonight"/>
 
 </div>
 
