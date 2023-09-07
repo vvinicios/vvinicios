@@ -8,7 +8,6 @@ Além da faculdade, estudo os principais conceito de Ciência de Dados, faço pa
 
 :rocket: `Estudo para ser um futuro Cientista de Dados!`
   
-#### Snake?
 
 <p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
 
@@ -38,29 +37,14 @@ Além da faculdade, estudo os principais conceito de Ciência de Dados, faço pa
 
 </div>
 
-  
-
-<div>
-
-  
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vvinicios&bg_color=1a1b27&color=be91f2&line=628fdb&point=57bdad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  
-
-</div>
-
-  
-
 ---
-
   
 
 ## 🧑🏽‍💻 Linguagens e Tecnologias :
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 ![VCSODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
 ![GITHUB](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
