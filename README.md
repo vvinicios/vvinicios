@@ -7,13 +7,6 @@ Trabalho como Estagiário em Pesquisa e Inovação. Atuo no acompanhamento de PO
 Além da faculdade, estudo os principais conceito de Ciência de Dados, faço parte do Potência Tech powered by iFood | Ciência de Dados, através da DIO, tenho conhecimentos básicos em Python e Pandas voltados para análise de dados, SQL, Jupyter Notebook, Oracle Database e Java. 
 
 :rocket: `Estudo para ser um futuro Cientista de Dados!`
-  
-
-<p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
-
-</p>
-
-  
 
 ## :bar_chart: Github Stats :octocat:
 
