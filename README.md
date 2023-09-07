@@ -9,7 +9,7 @@ Além da faculdade, estudo os principais conceito de Ciência de Dados, faço pa
 :rocket: `Estudo para ser um futuro Cientista de Dados!`
   
 
-<p  class="Profile Views Badge"  align="left"> <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
+<p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=walterowisk&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="walterowisk" />
 
 </p>
 
@@ -17,13 +17,13 @@ Além da faculdade, estudo os principais conceito de Ciência de Dados, faço pa
 
 ## :bar_chart: Github Stats :octocat:
 
-<div  align="right"  style="display: inline_block">
+<div  align="center"  style="display: inline_block">
 
 <a  href="https://github.com/vvinicios">
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=vvinicios&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img  height="150em"  src="https://github-readme-stats.vercel.app/api?username=vvinicios&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvinicios&layout=compact&langs_count=8&theme=tokyonight"/>
+<img  height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvinicios&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
