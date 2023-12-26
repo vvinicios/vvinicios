@@ -1,10 +1,10 @@
 ## Olá 👋🏽
   
-Meu nome é Vinicios, tenho vinte anos e atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Meu objetivo atual é conseguir minha primeira oportunidade na área de Análise de Dados.
+Meu nome é Vinicios, tenho vinte anos e sou graduado em Análise e Desenvolvimento de Sistemas na FIAP. Meu objetivo atual é conseguir minha primeira oportunidade na área de Análise de Dados.
 
-Trabalho como Estagiário em Pesquisa e Inovação. Atuo no acompanhamento de POCs (Provas de Conceito) junto com os times técnicos, áreas de Segurança Corporativa, áreas de infraestrutura e áreas de negócios. 
+Trabalho como Estagiário em Pesquisa e Inovação. Atualmente, após uma rotação de área, trabalho 100% com Ciência de Dados. Essa mudança foi possível graças aos meus conhecimentos sólidos em Python e domínio de suas principais bibliotecas: Pandas, Numpy e Scikit-Learn. Além disso, tenho conhecimento em Tableau para visualização de dados. Faço parte de um time de pesquisadores focados em inteligência artificial. Atuo no desenvolvimento de modelos de machine learning para a solução de problemas reais. Meus principais desafios são: coletar e preparar dados para treinamento dos modelos, desenvolver e testar modelos de machine learning eficazes e comunicar os resultados dos modelos para a equipe e os stakeholders. Também participei de todo o processo de Design de Produtos, desde discovery até entrega de todo o planejamento da experimentação, sempre mantendo contato ativo com áreas de pesquisa de novas tecnologias, além de ter contato diário com metodologias ágeis, principalmente SCRUM. 
 
-Além da faculdade, estudo os principais conceito de Ciência de Dados, faço parte do Potência Tech powered by iFood | Ciência de Dados, através da DIO, tenho conhecimentos básicos em Python e Pandas voltados para análise de dados, SQL, Jupyter Notebook, Oracle Database e Java. 
+Além da faculdade, estudo Python e Pandas voltados para análise de dados, SQL, Jupyter Notebook, Oracle Database e Java. 
 
 :rocket: `Estudo para ser um futuro Cientista de Dados!`
 
