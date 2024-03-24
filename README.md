@@ -1,12 +1,9 @@
 ## Olá 👋🏽
   
-Meu nome é Vinicios, tenho vinte anos e sou graduado em Análise e Desenvolvimento de Sistemas na FIAP. Meu objetivo atual é conseguir minha primeira oportunidade na área de Análise de Dados.
+Meu nome é Vinicios, tenho vinte e um anos e sou graduado em Análise e Desenvolvimento de Sistemas na FIAP. Atualmente, sou Data Engineer I na EY! 💛
 
-Trabalho como Estagiário em Pesquisa e Inovação. Atualmente, após uma rotação de área, trabalho 100% com Ciência de Dados. Essa mudança foi possível graças aos meus conhecimentos sólidos em Python e domínio de suas principais bibliotecas: Pandas, Numpy e Scikit-Learn. Além disso, tenho conhecimento em Tableau para visualização de dados. Faço parte de um time de pesquisadores focados em inteligência artificial. Atuo no desenvolvimento de modelos de machine learning para a solução de problemas reais. Meus principais desafios são: coletar e preparar dados para treinamento dos modelos, desenvolver e testar modelos de machine learning eficazes e comunicar os resultados dos modelos para a equipe e os stakeholders. Também participei de todo o processo de Design de Produtos, desde discovery até entrega de todo o planejamento da experimentação, sempre mantendo contato ativo com áreas de pesquisa de novas tecnologias, além de ter contato diário com metodologias ágeis, principalmente SCRUM. 
 
-Além da faculdade, estudo Python e Pandas voltados para análise de dados, SQL, Jupyter Notebook, Oracle Database e Java. 
-
-:rocket: `Estudo para ser um futuro Cientista de Dados!`
+:rocket: `Em busca de crescimento constante`
 
 ## :bar_chart: Github Stats :octocat:
 
@@ -23,13 +20,12 @@ Além da faculdade, estudo Python e Pandas voltados para análise de dados, SQL,
 
 ## 🧑🏽‍💻 Linguagens e Tecnologias :
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apache%20spark&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
-![VCSODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-FF4D5B.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
-![GITHUB](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
-
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
 
 ## :phone: Contato:
  
