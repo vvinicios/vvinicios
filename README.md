@@ -1,6 +1,6 @@
 ## Olá 👋🏽
   
-Meu nome é Vinicios, tenho vinte e um anos e sou graduado em Análise e Desenvolvimento de Sistemas na FIAP. Atualmente, sou Cientista de Dados Junior na EY! 💛
+Meu nome é Vinicios, tenho vinte e um anos e sou formado em Análise e Desenvolvimento de Sistemas na FIAP. Atualmente, trabalho como Analista de Dados e Planejamento Financeiro na Natura! 💚
 
 
 :rocket: `Em busca de crescimento constante`
