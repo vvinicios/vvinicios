@@ -1,7 +1,7 @@
-## Olá 👋🏽
+<h1>Olá 👋🏽</h1> 
   
-Meu nome é Vinicios, tenho vinte e um anos e sou formado em Análise e Desenvolvimento de Sistemas na FIAP. Atualmente, trabalho como Analista de Dados e Planejamento Financeiro na Natura! 💚
-
+<h2> Meu nome é Vinicios, sou formado em Análise e Desenvolvimento de Sistemas na FIAP e apaixonado por dados. Atualmente, trabalho como Analista de Dados e Planejamento Financeiro na Natura! 💚
+</h2> 
 
 :rocket: `Em busca de crescimento constante`
 
@@ -20,7 +20,15 @@ Meu nome é Vinicios, tenho vinte e um anos e sou formado em Análise e Desenvol
 
 ## 🧑🏽‍💻 Linguagens e Tecnologias :
 
-<img width="25" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> **Python** <img width="25" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/> **Spark** <img width="25" src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" alt="Databricks" title="Databricks"/> **Databricks** <img width="25" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/> **Azure** <img width="25" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/> **Git** <img width="25" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/> **GitHub**
+<p align="center">
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width=50/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width=50/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width=50/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=50/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width=50/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width=50/>
+  
+</p>
 
 
 ## :phone: Contato:
