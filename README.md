@@ -1,6 +1,6 @@
 <h1>Olá 👋🏽</h1> 
   
-<h2> Meu nome é Vinicios, sou formado em Análise e Desenvolvimento de Sistemas na FIAP e apaixonado por dados. Atualmente, trabalho como Analista de Dados e Planejamento Financeiro na Natura! 💚
+<h2> Meu nome é Vinicios, sou formado em Análise e Desenvolvimento de Sistemas na FIAP e apaixonado por dados. Atualmente, sou Analytics Engineer Junior na Natura e curso Especialização em Data Science na USP 💙
 </h2> 
 
 :rocket: `Em busca de crescimento constante`
