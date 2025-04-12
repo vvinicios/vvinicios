@@ -1,48 +1,29 @@
-<h1>Olá 👋🏽</h1> 
-  
-<h2> Meu nome é Vinicios, sou formado em Análise e Desenvolvimento de Sistemas na FIAP e apaixonado por dados. Atualmente, sou Analytics Engineer Junior na Natura e curso Especialização em Data Science na USP 💙
-</h2> 
+## 👨‍💻 Sobre Mim
 
-:rocket: `Em busca de crescimento constante`
+Sou um profissional apaixonado por transformar dados em insights valiosos. Com formação em Análise e Desenvolvimento de Sistemas pela FIAP e atualmente cursando Especialização em Ciência de Dados e Big Data na PUC Minas, busco constantemente aprimorar minhas habilidades em:
 
-## :bar_chart: Github Stats :octocat:
+- Análise exploratória de dados
+- Modelos preditivos
+- Visualização de dados
+- Automação de processos
 
-<div align="center"  style="display: inline_block">
+Atuo como Analista de Dados e FP&A Junior na Natura, onde aplico meus conhecimentos para auxiliar na tomada de decisões estratégicas.
 
-<img  height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvinicios&layout=compact&langs_count=8&theme=tokyonight"/>
+## 🚀 Portfólio
 
-<a  href="https://git.io/streak-stats">
-<img  height="120em"  src="https://github-readme-streak-stats.herokuapp.com?user=vvinicios&theme=tokyonight"/>
-  
-</div>
+Confira meus projetos de Ciência de Dados:
+[Portfólio Ciência de Dados](https://github.com/vvinicios/portifolio-ciencia-de-dados)
 
----
+## 📌 Principais Competências:
 
-## 🧑🏽‍💻 Linguagens e Tecnologias :
+| Categoria               | Tecnologias                                                                 |
+|-------------------------|----------------------------------------------------------------------------|
+| Engenharia de Dados     | ![Python](https://img.shields.io/badge/-Python-3776AB) ![SQL](https://img.shields.io/badge/-SQL-4479A1) ![Spark](https://img.shields.io/badge/-Spark-E25A1C) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621) |
+| Visualização            | ![Tableau](https://img.shields.io/badge/-Tableau-E97627)                   |
+| Modelagem/ETL           | ![ETL](https://img.shields.io/badge/-ETL-FF6F00) ![Data_Modeling](https://img.shields.io/badge/-Data_Modeling-003B57) |
+| Machine Learning        | ![R](https://img.shields.io/badge/-R-276DC3) ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C) |
 
-<p align="center">
-  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width=50/>
-  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width=50/>
-  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width=50/>
-  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=50/>
-  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width=50/>
-  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width=50/>
-  
-</p>
+## 📬 Entre em Contato
 
-
-## :phone: Contato:
- 
-<div>
-
-<a  href  =  "mailto:viniciosramos0123@hotmail.com"><img  src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black" target="_blank">
-
-</a>
-<a  href="https://www.linkedin.com/in/vinicios-ramos-68393618a"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
-</a>
-
-</div>
-
----
-> Caso queira copiar a estrutura do meu `README` fique a vontade. Só peço que deixe uma :star: no repositório :wink:
----
+- 📧 E-mail: [viniciosramos0123@hotmail.com](mailto:viniciosramos0123@hotmail.com)
+- 💼 LinkedIn: [Vinicios Silva](https://www.linkedin.com/in/vinicios-silva-68393618a)
