@@ -1,13 +1,14 @@
 ## 👨‍💻 Sobre Mim
 
-Sou um profissional apaixonado por transformar dados em insights valiosos. Com formação em Análise e Desenvolvimento de Sistemas pela FIAP e atualmente cursando Especialização em Ciência de Dados e Big Data na PUC Minas, busco constantemente aprimorar minhas habilidades em:
+Como Analista de Dados e Negócios, minha missão é transformar dados complexos em eficiência operacional e inovação tecnológica. Com experiência consolidada nos setores de logística e finanças, atuo na ponte entre os requisitos técnicos avançados e os objetivos estratégicos de negócio.
 
-- Análise exploratória de dados
-- Modelos preditivos
-- Visualização de dados
-- Automação de processos
+Atualmente, minha grande paixão é o desenvolvimento de ecossistemas com Inteligência Artificial Generativa. Tenho experiência prática na arquitetura de Agents e Sub-Agents para automatizar processos operacionais pesados, sempre buscando abordagens disruptivas e validação rigorosa através de testes A/B. Além da vivência corporativa, sigo aprofundando minha base analítica através dos meus estudos em Ciência de Dados e do aprimoramento contínuo do meu inglês para desafios globais.
 
-Atuo como Analista de Dados e FP&A Junior na Natura, onde aplico meus conhecimentos para auxiliar na tomada de decisões estratégicas.
+📌 Stack Técnico & Principais Competências:
+- IA & Machine Learning: GenAI (APIs, Agents, Sub-Agents), PySpark, Scikit-learn, Modelos Estatísticos.
+- Engenharia de Dados: Python (Pandas/SciPy), SQL, Databricks, Apache Spark, Pipelines ETL.
+- Visualização & Negócios: Power BI, Tableau, Modelagem de Dados, FP&A.
+- Metodologia: Testes A/B, Experimentação, Apresentação de Resultados para Gestores.
 
 ## 🚀 Portfólio
 
